@@ -61,10 +61,5 @@ streamlit run app.py
 ## Dataset Credits
 
 * **Mangrove Ecosystems:** Kolli et al., "Assessment of change in the extent of mangrove ecosystems using different spectral indices in Google Earth engine based on Random Forest Model".
-
-
 * **Digital Elevation Model:** SRTM Dataset from OpenTopography.
-
-
-* 
-**GIA Trends:** NASA GRACE mission data.
+* **GIA Trends:** NASA GRACE mission data.
